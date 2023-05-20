@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Polia, I'm a BMSTU student
+My name is Polina, I'm a BMSTU student
 ## My skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
