@@ -27,5 +27,4 @@ My name is Polina, I'm a BMSTU student
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ## My most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polina-shimolina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-## More stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=polina-shimolina)](https://github.com/anuraghazra/github-readme-stats)
+
