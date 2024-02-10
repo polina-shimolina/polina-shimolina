@@ -25,8 +25,6 @@ My name is Polina, I'm a BMSTU student
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-## Streak statistics 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=polina-shimolina)](https://git.io/streak-stats)
 ## My most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polina-shimolina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## More stats
